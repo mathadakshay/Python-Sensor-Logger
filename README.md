@@ -1,3 +1,6 @@
+![Sensor Logger Thumbnail](thumbnail.png)
+
+
 # Python-based Sensor Logger with Real-Time Plotting
 - This project simulates a temperature and humidity sensor using Python.
 - It logs the simulated sensor data and plots it in real-time using `matplotlib`.  
